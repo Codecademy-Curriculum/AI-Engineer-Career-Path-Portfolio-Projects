@@ -33,11 +33,6 @@ Build a production-ready AI system that classifies customer banking intent from 
    - Analyze per-class performance improvements
    - Compare training efficiency and computational requirements
 
-4. **Responsible AI Implementation**
-   - Detect and protect 15+ PII data types
-   - Hash identifiers and redact financial credentials
-   - Build inference pipelines with integrated privacy protection
-
 **Prerequisites:**
 - Python fundamentals
 - Data Science: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn
